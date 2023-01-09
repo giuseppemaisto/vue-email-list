@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  button{
+    background-color: rgb(113, 113, 244);
+    color: white;
+    padding: 5px;
+    border-radius: 15px;
+    
+  }
+  ul{
+    margin-top: 20px;
+    font-size: 30px;
+    color: blue;
+  }
